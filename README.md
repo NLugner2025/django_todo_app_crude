@@ -1,6 +1,8 @@
  Django_Todo_App_with_Authentication_and_Authorization
 
 A project built with Django web framework and Bootstrap
+## Project team
+# Nils Lugner
 
 ### Project Goals
 
