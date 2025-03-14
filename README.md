@@ -8,7 +8,7 @@ A project built with Django web framework and Bootstrap
 
 - Users can Create, Read, Update and Delete the todos form the website.
 
-- Once logged in, Users can access a REST API of the our website, which also allows them to use CRUD (Create, Read, Update and Delete) operations.
+- Once logged in, Users can access a REST API (Work in Progress) of the website, whill also allow them to use CRUD (Create, Read, Update and Delete) operations.
 
 ### Project Functionalities:
 
@@ -18,7 +18,7 @@ A project built with Django web framework and Bootstrap
 
 - If one user tried to test URLs to reach another user's todo a 403 Forbidden page is displayed.
 
-- Once logged in Users can access a REST API which has a filtering framework built with django-filter package, which allows the user to filter the todos by their state (completed or not completed).
+- Once logged in Users can access a REST API which has a filtering framework built with django-filter package, which allows the user to filter the todos by their state (completed or not completed, Work in Progress).
 
 ### Project Preview
 
